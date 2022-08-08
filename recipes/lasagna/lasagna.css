@@ -1,0 +1,34 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 800;
+}
+.lasagnapicture {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+#directions {
+    text-align: center;
+    list-style-position: inside;
+}

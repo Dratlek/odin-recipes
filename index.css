@@ -1,3 +1,6 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
 
 .anime-chef {
     margin-left: auto;
@@ -10,6 +13,7 @@ div {
 }
 
 ul {
-   list-style-position: inside;
+   display: table;
+   margin: 0 auto;
 }
 
